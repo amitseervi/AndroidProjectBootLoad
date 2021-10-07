@@ -1,0 +1,3 @@
+package com.amitseervi.androidbootload.exceptions
+
+interface BaseException
